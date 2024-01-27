@@ -55,7 +55,7 @@
     (aux_axis_origin 103.5 134.2)
     (grid_origin 103.5 134.2)
     (pcbplotparams
-      (layerselection 0x00000c0_7ffffffe)
+      (layerselection 0x00010fc_ffffffff)
       (plot_on_all_layers_selection 0x0000000_00000000)
       (disableapertmacros false)
       (usegerberextensions false)
@@ -68,7 +68,7 @@
       (plotframeref false)
       (viasonmask false)
       (mode 1)
-      (useauxorigin false)
+      (useauxorigin true)
       (hpglpennumber 1)
       (hpglpenspeed 20)
       (hpglpendiameter 15.000000)
